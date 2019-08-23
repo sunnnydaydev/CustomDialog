@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomDialog</string>
+    <string name="btn_continue">Continue</string>
+</resources>
